@@ -1,0 +1,17 @@
+#container{
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100vw;
+}
+#heading{
+    text-align: center;
+}
+#img{
+    width: 40%;
+    display: inline-block;
+    height: 200px;
+    margin-left: 90px;
+}
+#text{
+    float: right
+}
